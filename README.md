@@ -1,2 +1,2 @@
 # Python Course
-## In this Repo you will find all codes of the courses chapter
+## In this Repo you will find all codes of the courses' chapters
