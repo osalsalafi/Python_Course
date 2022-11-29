@@ -12,3 +12,18 @@ https://academy.hsoub.com/devops/servers/databases/%D9%85%D9%81%D8%A7%D9%87%D9%8
 * الدرجة Degree : الدرجة هي عدد السمات في الجدول، فدرجة الجدول في المثال السابق الموضح في الشكل هي 4.
 
 * HTTP : Hyper text transfer protocol
+
+
+
+-- to create an environment :
+** python -m venv venv
+-- to activate the environment :
+** venv\Scripts\activate or source venv\bin\acticated
+-- I will add the python files in taskaty dir and the rest files will be in Taskaty dir
+** mkdir taskaty
+-- To open VScode to the current folder
+** code .
+
+
+
+

@@ -1,0 +1,20 @@
+# Steps before starting the project:
+1) Download python 3.8 and above >> python -V
+2) Download pip >> pip -V
+** pip install virtualenv
+3) create an environment
+** virtualenv testenv "or" python -m venv testenv
+4) activate the environment
+>> go to the environment file then Scripts the activate
+** testenv\Scripts\acticate
+5) to deactivate the environment
+** deactivate
+6) Download django
+** pip install django
+7) go to the environment file then start the project
+** cd testenv
+** django-admin startproject testproject
+>> you will get testproject file and manage.python
+8) go to the project file and runserver
+** cd testproject
+** python manage.py runserver
